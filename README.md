@@ -1,2 +1,4 @@
 # netcat
-a simple implementation of netcat | 简单 netcat 实现
+usage: netcat 127.0.0.1 27777 as a client
+
+or: netcat -l 27777 as a server
